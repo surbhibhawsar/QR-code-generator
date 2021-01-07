@@ -1,6 +1,7 @@
 # QR-code-generator
 
 pip install pillow
+
 pip install qrcode
 
 
